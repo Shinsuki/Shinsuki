@@ -34,15 +34,14 @@
 ![Ubuntu-E95420_style=for-the-badge logo=ubuntu logoColor=white](https://github.com/Shinsuki/Shinsuki/assets/160244227/811d9c4b-97cc-420b-851b-d1aabe6858b1)
 <p>
         I currently use Arch, by the way
+        
+![Tokyo_Arch](https://github.com/Shinsuki/Shinsuki/assets/160244227/a9c6721a-8a33-4521-93b3-05b9d0a4a931)
 
-![Tokyo_Arch](https://github.com/Shinsuki/Shinsuki/assets/160244227/d9b254ae-845b-4490-ba5b-4af0ad4f312a)
 </p>
-
 </div>
 
 <div>
         <h2>Where find me</h2>
 
 [![LinkedIn-0077B5_style=for-the-badge logo=linkedin logoColor=white](https://github.com/Shinsuki/Shinsuki/assets/160244227/dcad2d54-9c09-4f37-bf1f-f9066c6bee29)](https://www.linkedin.com/in/guilherme-andrade-aa3a0b27a/)
-
 </div>
