@@ -17,21 +17,15 @@
 </div>
 
 <div>
-        <h3>Programming Languages</h3>
+        <h3>Technologies</h3>
 
 ![Python-3776AB_style=for-the-badge logo=python logoColor=white](https://github.com/Shinsuki/Shinsuki/assets/160244227/317160e3-8fa9-4e88-a9b7-3f9426de2f9b)
 ![Shell_Script-121011_style=for-the-badge logo=gnu-bash logoColor=white](https://github.com/Shinsuki/Shinsuki/assets/160244227/d10a7133-b8f9-414f-991a-9da65107daca)
-</div>
+![MySQL-00000F_style=for-the-badge logo=mysql logoColor=white](https://github.com/Shinsuki/Shinsuki/assets/160244227/58853fe1-55c6-4314-b9e7-d43f95b6cd4c)
+![HTML-239120_style=for-the-badge logo=html5 logoColor=white](https://github.com/Shinsuki/Shinsuki/assets/160244227/75cb1f2f-bddd-43d3-af6b-2e7bf82fe3d9)
 
-<div>
-        <h3>IDE's</h3>
-        
-![NeoVim-%2357A143](https://github.com/Shinsuki/Shinsuki/assets/160244227/0dec18ee-faaf-4e32-bcff-fe465e2d1bc2)
-![sublime_text-%23575757](https://github.com/Shinsuki/Shinsuki/assets/160244227/684658d7-d54c-4e5e-8f79-ddee5287a9aa)
-![Visual_Studio_Code-0078D4_style=for-the-badge logo=visual%20studio%20code logoColor=white](https://github.com/Shinsuki/Shinsuki/assets/160244227/2b7a97da-9461-48d1-9806-d3c15893694b)
 </div>
-<div>
-        <h3>Operational System</h3>
+        <h3>Operating Systems</h3>
         
 ![Arch_Linux-1793D1_style=for-the-badge logo=arch-linux logoColor=white](https://github.com/Shinsuki/Shinsuki/assets/160244227/da3ce3be-87fc-4611-82bc-c0199c9cb8da)
 ![Kali_Linux-557C94_style=for-the-badge logo=kali-linux logoColor=white](https://github.com/Shinsuki/Shinsuki/assets/160244227/b130c9a1-1a3a-4b02-b5d7-cf3d47db5607)
