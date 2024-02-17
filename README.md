@@ -39,7 +39,7 @@
 ![Debian-A81D33_style=for-the-badge logo=debian logoColor=white](https://github.com/Shinsuki/Shinsuki/assets/160244227/8d9ec2b3-5770-41aa-8750-ac85500976f1)
 ![Ubuntu-E95420_style=for-the-badge logo=ubuntu logoColor=white](https://github.com/Shinsuki/Shinsuki/assets/160244227/811d9c4b-97cc-420b-851b-d1aabe6858b1)
 <p>
-        I use Arch, by the way
+        I currently use Arch, by the way
 
 ![Tokyo_Arch](https://github.com/Shinsuki/Shinsuki/assets/160244227/d9b254ae-845b-4490-ba5b-4af0ad4f312a)
 </p>
