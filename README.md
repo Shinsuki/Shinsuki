@@ -7,7 +7,7 @@
         <ul align="center">
                 <h2>Who am i?</h2>
                 <p>
-                        I am a Cybersecurity student and a IT lover, learn new things everyday and posting new projects.
+                        I'm a Cybersecurity student and a IT lover, learn new things everyday and posting new projects.
                 </p>
 </div>
 
