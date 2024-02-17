@@ -20,6 +20,7 @@
         <h3>Technologies</h3>
 
 ![Python-3776AB_style=for-the-badge logo=python logoColor=white](https://github.com/Shinsuki/Shinsuki/assets/160244227/317160e3-8fa9-4e88-a9b7-3f9426de2f9b)
+![C-00599C_style=for-the-badge logo=c logoColor=white](https://github.com/Shinsuki/Shinsuki/assets/160244227/87099091-8419-46c2-9069-855acbab4e49)
 ![Shell_Script-121011_style=for-the-badge logo=gnu-bash logoColor=white](https://github.com/Shinsuki/Shinsuki/assets/160244227/d10a7133-b8f9-414f-991a-9da65107daca)
 ![MySQL-00000F_style=for-the-badge logo=mysql logoColor=white](https://github.com/Shinsuki/Shinsuki/assets/160244227/58853fe1-55c6-4314-b9e7-d43f95b6cd4c)
 ![HTML-239120_style=for-the-badge logo=html5 logoColor=white](https://github.com/Shinsuki/Shinsuki/assets/160244227/75cb1f2f-bddd-43d3-af6b-2e7bf82fe3d9)
