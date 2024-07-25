@@ -46,5 +46,5 @@
 <div>
         <h2>Where find me</h2>
 
-[![LinkedIn-0077B5_style=for-the-badge logo=linkedin logoColor=white](https://github.com/Shinsuki/Shinsuki/assets/160244227/dcad2d54-9c09-4f37-bf1f-f9066c6bee29)](https://www.linkedin.com/in/guilherme-andrade-aa3a0b27a/)
+[![LinkedIn-0077B5_style=for-the-badge logo=linkedin logoColor=white](https://github.com/Shinsuki/Shinsuki/assets/160244227/dcad2d54-9c09-4f37-bf1f-f9066c6bee29)](https://www.linkedin.com/in/guilherme-andrade-gonçalves-aa3a0b27a/)
 </div>
