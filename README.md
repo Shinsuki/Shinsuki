@@ -27,9 +27,9 @@
 
 </div>
         <h3>Operating Systems</h3>
-        
-![Arch_Linux-1793D1_style=for-the-badge logo=arch-linux logoColor=white](https://github.com/Shinsuki/Shinsuki/assets/160244227/da3ce3be-87fc-4611-82bc-c0199c9cb8da)
+
 ![Void Linux](https://img.shields.io/badge/Void%20Linux-478061.svg?style=for-the-badge&logo=Void-Linux&logoColor=white)
+![Arch_Linux-1793D1_style=for-the-badge logo=arch-linux logoColor=white](https://github.com/Shinsuki/Shinsuki/assets/160244227/da3ce3be-87fc-4611-82bc-c0199c9cb8da)
 ![Kali_Linux-557C94_style=for-the-badge logo=kali-linux logoColor=white](https://github.com/Shinsuki/Shinsuki/assets/160244227/b130c9a1-1a3a-4b02-b5d7-cf3d47db5607)
 ![Tails-56347C_style=for-the-badge logo=tails logoColor=white](https://github.com/Shinsuki/Shinsuki/assets/160244227/d6dd65f9-687a-4bc7-aecc-1ae7bee64153)
 ![Debian-A81D33_style=for-the-badge logo=debian logoColor=white](https://github.com/Shinsuki/Shinsuki/assets/160244227/8d9ec2b3-5770-41aa-8750-ac85500976f1)
