@@ -35,9 +35,9 @@
 ![Debian-A81D33_style=for-the-badge logo=debian logoColor=white](https://github.com/Shinsuki/Shinsuki/assets/160244227/8d9ec2b3-5770-41aa-8750-ac85500976f1)
 ![Ubuntu-E95420_style=for-the-badge logo=ubuntu logoColor=white](https://github.com/Shinsuki/Shinsuki/assets/160244227/811d9c4b-97cc-420b-851b-d1aabe6858b1)
 <p>
-        I currently use Void, by the way
+        I currently use Arch, by the way
         
-![Void](https://github.com/user-attachments/assets/ef89f64c-34f0-475a-897f-42107f977549)
+![Arch](https://github.com/user-attachments/assets/63c929ba-ed3d-4248-9eea-b9b2e92337e8)
 
 
 </p>
