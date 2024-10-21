@@ -37,7 +37,7 @@
 <p>
         I currently use Arch, by the way
         
-![Arch](https://github.com/user-attachments/assets/63c929ba-ed3d-4248-9eea-b9b2e92337e8)
+![Arch](https://github.com/user-attachments/assets/736bc7f3-f0ad-4893-84f5-bac247885cff)
 
 
 </p>
